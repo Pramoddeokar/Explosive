@@ -1,0 +1,10 @@
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Entities\bin\Debug\ngEdu.Entities.dll
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Entities\bin\Debug\ngEdu.Entities.pdb
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Entities\obj\Debug\ngEdu.Entities.dll
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Entities\obj\Debug\ngEdu.Entities.pdb
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Entities\obj\Debug\ngEdu.Entities.csprojResolveAssemblyReference.cache
+F:\Pramod\Workspace\Resources\WEB\Explo\ngEdu.Entities\bin\Debug\ngEdu.Entities.dll
+F:\Pramod\Workspace\Resources\WEB\Explo\ngEdu.Entities\bin\Debug\ngEdu.Entities.pdb
+F:\Pramod\Workspace\Resources\WEB\Explo\ngEdu.Entities\obj\Debug\ngEdu.Entities.dll
+F:\Pramod\Workspace\Resources\WEB\Explo\ngEdu.Entities\obj\Debug\ngEdu.Entities.pdb
+F:\Pramod\Workspace\Resources\WEB\Explo\ngEdu.Entities\obj\Debug\ngEdu.Entities.csprojResolveAssemblyReference.cache

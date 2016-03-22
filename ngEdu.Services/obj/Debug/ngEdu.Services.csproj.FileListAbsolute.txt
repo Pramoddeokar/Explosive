@@ -1,0 +1,12 @@
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\bin\Debug\ngEdu.Services.dll
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\bin\Debug\ngEdu.Services.pdb
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\bin\Debug\ngEdu.Data.dll
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\bin\Debug\ngEdu.Entities.dll
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\bin\Debug\EntityFramework.dll
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\bin\Debug\ngEdu.Data.pdb
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\bin\Debug\ngEdu.Entities.pdb
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\bin\Debug\EntityFramework.xml
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\obj\Debug\ngEdu.Services.csprojResolveAssemblyReference.cache
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\obj\Debug\ngEdu.Services.dll
+F:\Pramod\Workspace\Solutions\ngWebApi\ngEdu\ngEdu.Services\obj\Debug\ngEdu.Services.pdb
+F:\Pramod\Workspace\Resources\WEB\Explo\ngEdu.Services\obj\Debug\ngEdu.Services.csprojResolveAssemblyReference.cache
